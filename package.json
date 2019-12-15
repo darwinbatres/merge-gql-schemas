@@ -1,0 +1,16 @@
+{
+  "name": "merge-gql-schemas",
+  "version": "0.0.40",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "merge",
+    "graphql",
+    "schemas"
+  ],
+  "author": "Darwin Batres",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-tools": "^4.0.6"
+  }
+}
