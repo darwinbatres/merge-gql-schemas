@@ -1,12 +1,17 @@
 {
   "name": "merge-gql-schemas",
   "version": "0.0.40",
-  "description": "",
+  "description": "This small package will be helpful if you are working with GraphQL and ApolloServer tooling to automatically merge all your schemas.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darwinbatres/merge-gql-schemas.git"
+  },
   "keywords": [
     "merge",
     "graphql",
-    "schemas"
+    "schemas",
+    "ApolloServer"
   ],
   "author": "Darwin Batres",
   "license": "MIT",
