@@ -1,6 +1,6 @@
 {
   "name": "merge-gql-schemas",
-  "version": "0.0.41",
+  "version": "1.0.0",
   "description": "This small package will be helpful if you are working with GraphQL and ApolloServer tooling to automatically merge all your schemas.",
   "main": "index.js",
   "repository": {
